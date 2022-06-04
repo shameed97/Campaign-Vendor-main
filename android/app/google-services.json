@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "220976733968",
+    "project_id": "offers-52",
+    "storage_bucket": "offers-52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220976733968:android:c176fed6b6c8165bdfcf95",
+        "android_client_info": {
+          "package_name": "com.reena.offers_52"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220976733968-mlji0ipphfhfo3jn9i0nt381dadmpd32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reena.offers_52",
+            "certificate_hash": "bd5a5da7da0100c99f146108aaffb9260a0f260e"
+          }
+        },
+        {
+          "client_id": "220976733968-m9fv2cdqkkti7ri4icsgrheu59dmblud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE5V6n6bQtfluXTQo-DrQmnaFqqJhlazo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220976733968-m9fv2cdqkkti7ri4icsgrheu59dmblud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
